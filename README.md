@@ -1,3 +1,4 @@
+<img width="2404" height="1342" alt="dashboard_preview" src="https://github.com/user-attachments/assets/ca34c1c9-ebaf-407e-8776-b75bc661f562" />
 # Sales & Revenue Analysis Dashboard (Power BI)
 
 An interactive Power BI dashboard analyzing 500 sales orders across regions, categories, products, salespeople, and payment modes.
